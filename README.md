@@ -1,1 +1,1 @@
-all tasks for Course perl on stepic
+all tasks from course perl on stepic
